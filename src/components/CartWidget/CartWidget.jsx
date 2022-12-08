@@ -1,15 +1,10 @@
 const CartWidget = () => {
     return (
         <>
-            <ul className="navbar-nav me-auto">
-                
-                <li className="nav-link">
-                 
-                    <button className="btn btn-dark">Carrito</button>
-                </li>
-                <p>0</p>
+                               <button> <img src="../imagenes/cart.png" alt="" />
+                               <spam>0</spam>
+                               </button>
            
-            </ul>
         </>
     );
 }
