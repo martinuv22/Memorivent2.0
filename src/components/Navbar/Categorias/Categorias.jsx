@@ -10,7 +10,7 @@ const Categorias = () => {
             
         <button className='btn btn-secondary' ><Link className="botones" to={"/category/Pendrives"}>Pendrives</Link></button>
   
-        <button className='btn btn-secondary'><Link className="botones" to={"/category/Discos"}>Discos Duros Externo</Link></button>
+        <button className='btn btn-secondary'><Link className="botones" to={"/category/Discos"}>Discos Duros Externos</Link></button>
 
 
         <button className='btn btn-secondary'><Link className="botones" to={"/category/Tarjetas"}>Tarjetas de Memoria</Link></button>
