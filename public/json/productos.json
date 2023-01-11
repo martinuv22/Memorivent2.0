@@ -1,157 +1,136 @@
 [{
     "id": 1,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "SanDisk",
-    "img": "SanDisk.jpg",
-    "memoria en GB": 64,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/SanDisk.jpg?alt=media&token=098bee35-cd68-405d-ba20-6bbdd4201c63",
+    "memoria": 64,
     "color": "negro y rojo",
     "precio": 1000,
     "stock": 10,
-    "idCategoria" :"Pendrives",
-    "total": 0
-},
-{
-    "id": 2,
+    "idCategoria" :"Pendrives"
+    },
+    {"id": 2,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "SanDisk",
-    "img": "SanDisk.jpg",
-    "memoria en GB": 120,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/SanDisk.jpg?alt=media&token=098bee35-cd68-405d-ba20-6bbdd4201c63",
+    "memoria": 120,
     "color": "negro y rojo",
     "precio": 2000,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
+   
 },
 {
     "id": 3,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "SanDisk",
-    "img": "SanDisk.jpg",
-    "memoria en GB": 500,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/SanDisk.jpg?alt=media&token=098bee35-cd68-405d-ba20-6bbdd4201c63",
+    "memoria": 500,
     "color": "negro y rojo",
     "precio": 2500,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
+   
 },
 {
     "id": 4,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "SanDisk",
-    "img": "SanDisk.jpg",
-    "memoria en GB": 1000,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/SanDisk.jpg?alt=media&token=098bee35-cd68-405d-ba20-6bbdd4201c63",
+    "memoria": 1000,
     "color": "negro y rojo",
     "precio": 4500,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
+   
 },
 {
-    "id": "5",
+    "id": 5,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "Kingston.jpg",
-    "memoria en GB": 64,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/kingston.jpg?alt=media&token=2cf873ae-0f28-42f5-8d4b-dc2ff0a22608",
+    "memoria": 64,
     "color": "plateado",
     "precio": 1500,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
+   
 },
 {
     "id": 6,
     "nombre": "Pendrive",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "Kingston.jpg",
-    "memoria en GB": 120,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/kingston.jpg?alt=media&token=2cf873ae-0f28-42f5-8d4b-dc2ff0a22608",
+    "memoria": 120,
     "color": "plateado",
     "precio": 2500,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
 },
 {
     "id": 7,
     "nombre": "Pendrive ",
-    "cantidad": 1,
     "marca": " Kingtong ",
-    "img": "Kingston.jpg",
-    "memoria en GB": 500,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/kingston.jpg?alt=media&token=2cf873ae-0f28-42f5-8d4b-dc2ff0a22608",
+    "memoria": 500,
     "color": "plateado",
     "precio": 3000,
     "stock": 12,
-    "idCategoria" :"Pendrives",
-    "total": 0
+    "idCategoria" :"Pendrives"
 },
 {
     "id": 8,
     "nombre": "Pedrive",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "Kingston.jpg",
-    "memoria en GB": 100,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/kingston.jpg?alt=media&token=2cf873ae-0f28-42f5-8d4b-dc2ff0a22608",
+    "memoria": 100,
     "color": "plateado",
     "precio": 5000,
     "stock": 12,
-    "idCategoria":"Pendrives",
-    "total": 0
+    "idCategoria":"Pendrives"
 },
 {
     "id": 9,
     "nombre": "Disco Duro Extraible",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "DiscoDuro.jpg",
-    "memoria en GB": 1000,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/discoDuro.jpg?alt=media&token=0d367b88-b7e8-40c5-979a-b671be9ebf02",
+    "memoria": 1000,
     "color": "plateado y negro",
     "precio": 22000,
     "stock": 9,
-    "idCategoria":"Discos",
-    "total": 0
+    "idCategoria":"Discos"
 },
 {
     "id": 10,
     "nombre": "Disco Duro Extraible",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "DiscoDuro.jpg",
-    "memoria en GB": 2000,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/discoDuro.jpg?alt=media&token=0d367b88-b7e8-40c5-979a-b671be9ebf02",
+    "memoria": 2000,
     "color": "plateado y negro",
     "precio": 16000,
     "stock": 7,
-    "idCategoria":"Discos",
-    "total": 0
+    "idCategoria":"Discos"
 },
 {
     "id": 11,
     "nombre": "Tarjeta de Memoria",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "Tarjeta32.jpg",
-    "memoria en GB": 32,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/Tarjeta32.jpg?alt=media&token=6f6a8133-f0a9-4730-a3a2-e6c9bc48c484",
+    "memoria": 32,
     "color": "negro",
     "precio": 1800,
     "stock": 4,
-    "idCategoria": "Tarjetas",
-    "total": 0
+    "idCategoria": "Tarjetas"
 },
 {
     "id": 12,
     "nombre": "Tarjeta de Memoria",
-    "cantidad": 1,
     "marca": "Kingtong",
-    "img": "Tarjeta64.jpg",
-    "memoria en GB": 64,
+    "img": "https://firebasestorage.googleapis.com/v0/b/memorivent.appspot.com/o/Tarjeta64.jpg?alt=media&token=334177b9-4c12-4d7a-a58a-852ee2750f59",
+    "memoria": 64,
     "color": "negro",
     "precio": 2400,
     "stock": 4,
-    "idCategoria":"Tarjetas",
-    "total": 0
+    "idCategoria":"Tarjetas"
 }
 ]

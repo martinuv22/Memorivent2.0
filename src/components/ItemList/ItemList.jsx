@@ -1,5 +1,5 @@
-//Cambia o modifica el mi objeto
-//recibe un array
+//Cambia o modifica el mi objeto, recibe un array
+
 import Item from "../Item/Item";
 
 const ItemList = ({productsList}) => {

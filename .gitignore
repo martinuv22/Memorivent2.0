@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
+/assets/funciones.js
+/public/json/
+/public/imagenes/
 # testing
 /coverage
 
